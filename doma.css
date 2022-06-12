@@ -1,0 +1,13 @@
+.card {
+  box-shadow: 0 0 5px 0 rgba(22, 22, 26, 0.25);
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+
+.container {
+  padding: 10px;
+}
+
+body {
+  background-color: lightblue;
+}
